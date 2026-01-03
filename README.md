@@ -1,2 +1,3 @@
 # Daily_Tasks
-My Learning for every day satrts 
+My Learning for every day starts
+
