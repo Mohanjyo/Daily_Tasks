@@ -41,3 +41,6 @@ print(type(d))
 #Boolean
 E = True
 print(type(E))   
+
+
+
